@@ -1,0 +1,25 @@
+[Desktop Entry]
+
+# The type as listed above
+Type=Application
+
+# The version of the desktop entry specification to which this file complies
+Version=1.0
+
+# The name of the application
+Name=steamcmd
+
+# A comment which can/will be used as a tooltip
+Comment=The Steam Console Client or SteamCMD is a command-line version of the Steam Client. Its primary use is to install and update various dedicated servers available on Steam using a command-line interface.
+
+# The executable of the application, possibly with arguments.
+Exec=steamcmd
+
+# The name of the icon that will be used to display this entry
+Icon=steamcmd
+
+# Describes whether this application needs to be run in a terminal or not
+Terminal=true
+
+# Describes the categories in which this entry should be shown
+Categories=Game;
